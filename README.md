@@ -1,7 +1,6 @@
 # Titanic-Kaggle-Solution
 
-This is my solution for the titanic competition on Kaggle that ranked 753th out of 10456 on the leaderboard.
-The solution is located in titanic.ipynb
+titanic.ipynb contains my solution for the titanic competition on Kaggle. It ranked 753th out of 10456 on the leaderboard.
 
 This notebook is structured as follows:
 
