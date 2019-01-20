@@ -1,6 +1,6 @@
 # Titanic-Kaggle-Solution
 
-titanic.ipynb contains my solution for the titanic competition on Kaggle. It ranked 753th out of 10456 on the leaderboard.
+The File titanic.ipynb contains my solution for the titanic competition on Kaggle. It ranked 753th out of 10456 on the leaderboard.
 
 This notebook is structured as follows:
 
